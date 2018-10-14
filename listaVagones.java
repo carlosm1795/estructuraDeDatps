@@ -263,6 +263,7 @@ public class listaVagones {
     }
     
     public void clearConsole(){
+        //Funcion para limpiar la consola
         for(int x = 0; x <= 50; x++){
             System.out.println();
         }
