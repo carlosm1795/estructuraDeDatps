@@ -1,3 +1,4 @@
+git clone --bare https://external-host.com/extuser/repo.git
 git add .
 git remote add origin https://github.com/carlosm1795/
 git commit -m "Adding comments for example"
